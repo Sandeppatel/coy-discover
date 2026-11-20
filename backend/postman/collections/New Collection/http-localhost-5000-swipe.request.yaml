@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:5000/swipe
+description: ""
+url: http://localhost:5000/matches
+method: GET
+body:
+  type: json
+  content: ""
+order: 2000

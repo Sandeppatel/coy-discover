@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:5000/api/profiles
+description: ""
+url: http://localhost:5000/api/profiles
+method: GET
+body:
+  type: json
+  content: ""
+order: 1000
